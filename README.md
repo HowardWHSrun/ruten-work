@@ -235,6 +235,17 @@ The code will read:
 - **The shared `calibration.json`** (camera intrinsics/extrinsics),  
   used in Phase 2 Step 2 to reproject the 3D back into each camera view.
 
+**Optional: CT Pedestal Integration**
+Inside the notebooks, you can configure the CT pedestal integration:
+```python
+# ========== CT PEDESTAL CONFIGURATION (OPTIONAL) ==========
+nose_landmark_name = "F"    # update to your tracked nose joint name
+include_ct_pedestals = True # set False to disable
+# =========================================================
+```
+- If enabled, the code will use the tracked nose position + hardcoded CT offsets to compute 4 virtual "pedestal" landmarks.
+- These landmarks are included in the coverage, jitter, and reprojection reports.
+
 Each notebook runs that step's QC logic for that same session and writes out CSV summaries and plots.
 
 ---
