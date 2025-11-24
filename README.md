@@ -20,7 +20,7 @@ This repo provides a consistent way to audit data quality before doing any biome
   - Chewing Sidedness Analysis (Step 2): Determines lateral chewing preference from velocity patterns
 - **Phase 4 - Gape & Feeding Evaluation**: Added evaluation notebook for gape onset timing and feeding pattern prediction
 - **CT Pedestal Integration**: Enhanced Phase 2 notebooks to support CT marker-based pedestal computation:
-  - Added functionality to compute pedestal location from CT markers (F_9 and F_11)
+  - Added functionality to compute pedestal location from CT markers
   - Pedestal trajectory is automatically computed from tracked nose landmark using CT-derived offset
   - Pedestal is included in all Phase 2 metrics (coverage, jitter, dropout, reprojection error)
 
