@@ -511,4 +511,8 @@ At that point, all four phases are complete:
 
 ## Repository
 
-This repository is maintained at: https://github.com/ruten-neuro/Centralized-behavioral-video-analysis-pipeline-Howard
+This repository is maintained at: [https://github.com/HowardWHSrun/ruten-work](https://github.com/HowardWHSrun/ruten-work)
+
+## Documentation
+
+Full documentation is available at: [https://howardwhsrun.github.io/ruten-work/](https://howardwhsrun.github.io/ruten-work/)

@@ -1,0 +1,42 @@
+# Jekyll Configuration for GitHub Pages
+title: "Evaluation Metrics for Multi-Camera Tracking"
+description: "Evaluation toolkit for validating multi-camera tracking and 3D reconstruction"
+baseurl: "/ruten-work"
+url: "https://howardwhsrun.github.io"
+
+# Theme settings
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+# Navigation
+navigation:
+  - title: Home
+    url: /
+  - title: Phase 1
+    url: /phase1.html
+  - title: Phase 2
+    url: /phase2.html
+  - title: Phase 3
+    url: /phase3.html
+  - title: Phase 4
+    url: /phase4.html
+  - title: Workflow
+    url: /workflow.html
+  - title: Installation
+    url: /installation.html
+
+# Markdown settings
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+# Exclude files
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+
