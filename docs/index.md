@@ -58,6 +58,7 @@ The evaluation pipeline is organized into **4 sequential phases**, each building
 1. **[Installation & Setup](installation.html)** - Get started with the evaluation toolkit
 2. **[Complete Workflow Guide](workflow.html)** - Step-by-step instructions for running all phases
 3. **[Phase Documentation](phase1.html)** - Detailed documentation for each phase
+4. **[Experimental Results](results.html)** - Example results and metrics from all phases
 
 ---
 
