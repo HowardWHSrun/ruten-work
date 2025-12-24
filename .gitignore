@@ -38,6 +38,7 @@ out_3d_eval/
 # Data directories
 data/
 session_data/
+Face Video/
 
 # IDE
 .vscode/
