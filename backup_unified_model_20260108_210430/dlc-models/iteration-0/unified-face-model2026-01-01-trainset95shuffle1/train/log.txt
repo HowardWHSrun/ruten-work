@@ -1,0 +1,160 @@
+2026-01-08 12:09:32 Config:
+{'all_joints': [[0], [1], [2], [3], [4], [5], [6], [7], [8], [9], [10]],
+ 'all_joints_names': ['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11'],
+ 'alpha_r': 0.02,
+ 'apply_prob': 0.5,
+ 'batch_size': 1,
+ 'contrast': {'clahe': True,
+              'claheratio': 0.1,
+              'histeq': True,
+              'histeqratio': 0.1},
+ 'convolution': {'edge': False,
+                 'emboss': {'alpha': [0.0, 1.0], 'strength': [0.5, 1.5]},
+                 'embossratio': 0.1,
+                 'sharpen': False,
+                 'sharpenratio': 0.3},
+ 'crop_pad': 0,
+ 'cropratio': 0.4,
+ 'dataset': 'training-datasets/iteration-0/UnaugmentedDataSet_unified-face-model2026-01-01/unified-face-model_DLC_resnet5095shuffle1.mat',
+ 'dataset_type': 'imgaug',
+ 'decay_steps': 30000,
+ 'deterministic': False,
+ 'display_iters': 1000,
+ 'fg_fraction': 0.25,
+ 'global_scale': 0.8,
+ 'init_weights': '/Users/howardwang/Desktop/PhD '
+                 'Application/Interviews/CSHL/Helen '
+                 'Hou/cheese3d_env/lib/python3.10/site-packages/deeplabcut/pose_estimation_tensorflow/models/pretrained/resnet_v1_50.ckpt',
+ 'intermediate_supervision': False,
+ 'intermediate_supervision_layer': 12,
+ 'location_refinement': True,
+ 'locref_huber_loss': True,
+ 'locref_loss_weight': 0.05,
+ 'locref_stdev': 7.2801,
+ 'log_dir': 'log',
+ 'lr_init': 0.0005,
+ 'max_input_size': 1500,
+ 'mean_pixel': [123.68, 116.779, 103.939],
+ 'metadataset': 'training-datasets/iteration-0/UnaugmentedDataSet_unified-face-model2026-01-01/Documentation_data-unified-face-model_95shuffle1.pickle',
+ 'min_input_size': 64,
+ 'mirror': False,
+ 'multi_stage': False,
+ 'multi_step': [[0.005, 10000],
+                [0.02, 430000],
+                [0.002, 730000],
+                [0.001, 1030000]],
+ 'net_type': 'resnet_50',
+ 'num_joints': 11,
+ 'optimizer': 'sgd',
+ 'pairwise_huber_loss': False,
+ 'pairwise_predict': False,
+ 'partaffinityfield_predict': False,
+ 'pos_dist_thresh': 17,
+ 'project_path': '/Users/howardwang/Desktop/PhD '
+                 'Application/Interviews/CSHL/Helen '
+                 'Hou/monkey_behavior_cheese3d_gui/model/unified-face-model/backend/unified-face-model-DLC_resnet50-2026-01-01',
+ 'regularize': False,
+ 'rotation': 25,
+ 'rotratio': 0.4,
+ 'save_iters': 50000,
+ 'scale_jitter_lo': 0.5,
+ 'scale_jitter_up': 1.25,
+ 'scoremap_dir': 'test',
+ 'shuffle': True,
+ 'snapshot_prefix': '/Users/howardwang/Desktop/PhD '
+                    'Application/Interviews/CSHL/Helen '
+                    'Hou/monkey_behavior_cheese3d_gui/model/unified-face-model/backend/unified-face-model-DLC_resnet50-2026-01-01/dlc-models/iteration-0/unified-face-model2026-01-01-trainset95shuffle1/train/snapshot',
+ 'stride': 8.0,
+ 'weigh_negatives': False,
+ 'weigh_only_present_joints': False,
+ 'weigh_part_predictions': False,
+ 'weight_decay': 0.0001}
+2026-01-08 12:16:11 iteration: 1000 loss: 3223031971333497.0000 lr: 0.005
+2026-01-08 12:19:58 iteration: 2000 loss: 92429166680.4703 lr: 0.005
+2026-01-08 12:23:45 iteration: 3000 loss: 32165.1244 lr: 0.005
+2026-01-08 12:27:39 iteration: 4000 loss: 21565.4743 lr: 0.005
+2026-01-08 12:31:33 iteration: 5000 loss: 14940.8950 lr: 0.005
+2026-01-08 12:35:25 iteration: 6000 loss: 12353.9360 lr: 0.005
+2026-01-08 12:39:17 iteration: 7000 loss: 11245.5079 lr: 0.005
+2026-01-08 12:43:09 iteration: 8000 loss: 15858.4764 lr: 0.005
+2026-01-08 12:57:07 iteration: 9000 loss: 97581.1607 lr: 0.005
+2026-01-08 13:00:58 iteration: 10000 loss: 23927.7982 lr: 0.005
+2026-01-08 13:04:52 iteration: 11000 loss: 1088678543895910.5000 lr: 0.02
+2026-01-08 13:08:46 iteration: 12000 loss: 26020384.3782 lr: 0.02
+2026-01-08 13:12:34 iteration: 13000 loss: 102845193.7903 lr: 0.02
+2026-01-08 13:16:31 iteration: 14000 loss: 40169419.0009 lr: 0.02
+2026-01-08 13:20:21 iteration: 15000 loss: 2994428911.4579 lr: 0.02
+2026-01-08 13:24:16 iteration: 16000 loss: 14200770.6087 lr: 0.02
+2026-01-08 13:28:07 iteration: 17000 loss: 300401.5572 lr: 0.02
+2026-01-08 13:31:59 iteration: 18000 loss: 174922.2121 lr: 0.02
+2026-01-08 13:35:48 iteration: 19000 loss: 124912.3257 lr: 0.02
+2026-01-08 13:39:41 iteration: 20000 loss: 12104925354780108.0000 lr: 0.02
+2026-01-08 13:43:34 iteration: 21000 loss: 40685510230142312.0000 lr: 0.02
+2026-01-08 13:47:28 iteration: 22000 loss: 11238428.6970 lr: 0.02
+2026-01-08 13:51:17 iteration: 23000 loss: 673588.1787 lr: 0.02
+2026-01-08 13:55:02 iteration: 24000 loss: 478762.1008 lr: 0.02
+2026-01-08 13:58:59 iteration: 25000 loss: 468400.8579 lr: 0.02
+2026-01-08 14:02:50 iteration: 26000 loss: 453691.4757 lr: 0.02
+2026-01-08 14:06:35 iteration: 27000 loss: 442934.8289 lr: 0.02
+2026-01-08 14:10:20 iteration: 28000 loss: 415137.9064 lr: 0.02
+2026-01-08 14:14:11 iteration: 29000 loss: 374599.9450 lr: 0.02
+2026-01-08 14:18:04 iteration: 30000 loss: 329086.3621 lr: 0.02
+2026-01-08 14:21:57 iteration: 31000 loss: 268332.3079 lr: 0.02
+2026-01-08 14:25:51 iteration: 32000 loss: 219242.4340 lr: 0.02
+2026-01-08 14:29:33 iteration: 33000 loss: 181296.7414 lr: 0.02
+2026-01-08 14:33:27 iteration: 34000 loss: 181766.4096 lr: 0.02
+2026-01-08 14:37:18 iteration: 35000 loss: 168267.5655 lr: 0.02
+2026-01-08 14:41:15 iteration: 36000 loss: 170826.9301 lr: 0.02
+2026-01-08 14:45:12 iteration: 37000 loss: 193641.5907 lr: 0.02
+2026-01-08 14:49:00 iteration: 38000 loss: 207693.4299 lr: 0.02
+2026-01-08 14:53:00 iteration: 39000 loss: 226346.3479 lr: 0.02
+2026-01-08 14:57:03 iteration: 40000 loss: 242292.6691 lr: 0.02
+2026-01-08 15:00:59 iteration: 41000 loss: 256378.8006 lr: 0.02
+2026-01-08 15:04:57 iteration: 42000 loss: 241354.8742 lr: 0.02
+2026-01-08 15:08:59 iteration: 43000 loss: 210345.2342 lr: 0.02
+2026-01-08 15:12:55 iteration: 44000 loss: 5907288622454083.0000 lr: 0.02
+2026-01-08 15:16:49 iteration: 45000 loss: 1374658.5196 lr: 0.02
+2026-01-08 15:20:40 iteration: 46000 loss: 855108.7798 lr: 0.02
+2026-01-08 15:24:43 iteration: 47000 loss: 14937353195.6084 lr: 0.02
+2026-01-08 15:28:29 iteration: 48000 loss: 445964.5682 lr: 0.02
+2026-01-08 15:32:32 iteration: 49000 loss: 447292.2366 lr: 0.02
+2026-01-08 15:36:07 iteration: 50000 loss: 757071.9360 lr: 0.02
+2026-01-08 15:36:14 Config:
+{'all_joints': [[0], [1], [2], [3], [4], [5], [6], [7], [8], [9], [10]],
+ 'all_joints_names': ['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11'],
+ 'batch_size': 1,
+ 'crop_pad': 0,
+ 'dataset': 'training-datasets/iteration-0/UnaugmentedDataSet_unified-face-model2026-01-01/unified-face-model_DLC_resnet5095shuffle1.mat',
+ 'dataset_type': 'imgaug',
+ 'deterministic': False,
+ 'fg_fraction': 0.25,
+ 'global_scale': 0.8,
+ 'init_weights': '/Users/howardwang/Desktop/PhD '
+                 'Application/Interviews/CSHL/Helen '
+                 'Hou/cheese3d_env/lib/python3.10/site-packages/deeplabcut/pose_estimation_tensorflow/models/pretrained/resnet_v1_50.ckpt',
+ 'intermediate_supervision': False,
+ 'intermediate_supervision_layer': 12,
+ 'location_refinement': True,
+ 'locref_huber_loss': True,
+ 'locref_loss_weight': 1.0,
+ 'locref_stdev': 7.2801,
+ 'log_dir': 'log',
+ 'mean_pixel': [123.68, 116.779, 103.939],
+ 'mirror': False,
+ 'net_type': 'resnet_50',
+ 'num_joints': 11,
+ 'optimizer': 'sgd',
+ 'pairwise_huber_loss': True,
+ 'pairwise_predict': False,
+ 'partaffinityfield_predict': False,
+ 'regularize': False,
+ 'scoremap_dir': 'test',
+ 'shuffle': True,
+ 'snapshot_prefix': '/Users/howardwang/Desktop/PhD '
+                    'Application/Interviews/CSHL/Helen '
+                    'Hou/monkey_behavior_cheese3d_gui/model/unified-face-model/backend/unified-face-model-DLC_resnet50-2026-01-01/dlc-models/iteration-0/unified-face-model2026-01-01-trainset95shuffle1/test/snapshot',
+ 'stride': 8.0,
+ 'weigh_negatives': False,
+ 'weigh_only_present_joints': False,
+ 'weigh_part_predictions': False,
+ 'weight_decay': 0.0001}
