@@ -1,0 +1,31 @@
+dataset: /Users/howardwang/Desktop/PhD Application/Interviews/CSHL/Helen 
+  Hou/monkey_behavior_cheese3d/models/dlc/cam-topright
+dataset_type: multi-animal-imgaug
+num_joints: 11
+all_joints:
+- - 0
+- - 1
+- - 2
+- - 3
+- - 4
+- - 5
+- - 6
+- - 7
+- - 8
+- - 9
+- - 10
+all_joints_names:
+- '1'
+- '2'
+- '3'
+- '4'
+- '5'
+- '6'
+- '7'
+- '8'
+- '9'
+- '10'
+- '11'
+net_type: resnet_50
+global_scale: 1
+scoremap_dir: test
