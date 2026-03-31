@@ -1,0 +1,14 @@
+Error processing cam-topright in 20250606_145856_882939
+Video could not be opened; it may be corrupted.
+
+Traceback (most recent call last):
+  File "/Users/howardwang/Desktop/Ruten/Evaluation-Metrics_Vishal-main/run_pytorch_inference_final.py", line 147, in run_inference_for_session
+    pytorch_analyze_videos(
+  File "/Users/howardwang/.pyenv/versions/3.11.11/lib/python3.11/site-packages/deeplabcut/pose_estimation_pytorch/apis/videos.py", line 563, in analyze_videos
+    video_iterator = VideoIterator(video, cropping=cropping)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/howardwang/.pyenv/versions/3.11.11/lib/python3.11/site-packages/deeplabcut/pose_estimation_pytorch/apis/videos.py", line 58, in __init__
+    super().__init__(str(video_path))
+  File "/Users/howardwang/.pyenv/versions/3.11.11/lib/python3.11/site-packages/deeplabcut/utils/auxfun_videos.py", line 44, in __init__
+    raise IOError("Video could not be opened; it may be corrupted.")
+OSError: Video could not be opened; it may be corrupted.
