@@ -1,0 +1,12 @@
+{
+  "total_frames": 25223,
+  "left_count": 1145,
+  "right_count": 1097,
+  "neutral_count": 22981,
+  "left_percent": 4.53950759227689,
+  "right_percent": 4.34920509059192,
+  "neutral_percent": 91.11128731713119,
+  "dominant_side": "left",
+  "velocity_threshold": 0.1,
+  "sidedness_threshold": 0.02
+}

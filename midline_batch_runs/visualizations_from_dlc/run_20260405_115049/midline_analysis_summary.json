@@ -1,0 +1,292 @@
+{
+  "total": 41,
+  "results": [
+    {
+      "session_id": "ses_20250521_face__20250521_143344_727851",
+      "status": "success",
+      "message": "phase3 step2 complete",
+      "output_csv": "/Users/howardwang/Desktop/Ruten/Evaluation-Metrics_Vishal-main/midline_batch_runs/visualizations_from_dlc/run_20260405_115049/ses_20250521_face__20250521_143344_727851/midline_analysis/chewing_sidedness_analysis.csv",
+      "summary_json": "/Users/howardwang/Desktop/Ruten/Evaluation-Metrics_Vishal-main/midline_batch_runs/visualizations_from_dlc/run_20260405_115049/ses_20250521_face__20250521_143344_727851/midline_analysis/chewing_sidedness_summary.json"
+    },
+    {
+      "session_id": "ses_20250521_face__20250521_143638_636253",
+      "status": "success",
+      "message": "phase3 step2 complete",
+      "output_csv": "/Users/howardwang/Desktop/Ruten/Evaluation-Metrics_Vishal-main/midline_batch_runs/visualizations_from_dlc/run_20260405_115049/ses_20250521_face__20250521_143638_636253/midline_analysis/chewing_sidedness_analysis.csv",
+      "summary_json": "/Users/howardwang/Desktop/Ruten/Evaluation-Metrics_Vishal-main/midline_batch_runs/visualizations_from_dlc/run_20260405_115049/ses_20250521_face__20250521_143638_636253/midline_analysis/chewing_sidedness_summary.json"
+    },
+    {
+      "session_id": "ses_20250521_face__20250521_143927_391812",
+      "status": "success",
+      "message": "phase3 step2 complete",
+      "output_csv": "/Users/howardwang/Desktop/Ruten/Evaluation-Metrics_Vishal-main/midline_batch_runs/visualizations_from_dlc/run_20260405_115049/ses_20250521_face__20250521_143927_391812/midline_analysis/chewing_sidedness_analysis.csv",
+      "summary_json": "/Users/howardwang/Desktop/Ruten/Evaluation-Metrics_Vishal-main/midline_batch_runs/visualizations_from_dlc/run_20260405_115049/ses_20250521_face__20250521_143927_391812/midline_analysis/chewing_sidedness_summary.json"
+    },
+    {
+      "session_id": "ses_20250521_face__20250521_144211_271947",
+      "status": "success",
+      "message": "phase3 step2 complete",
+      "output_csv": "/Users/howardwang/Desktop/Ruten/Evaluation-Metrics_Vishal-main/midline_batch_runs/visualizations_from_dlc/run_20260405_115049/ses_20250521_face__20250521_144211_271947/midline_analysis/chewing_sidedness_analysis.csv",
+      "summary_json": "/Users/howardwang/Desktop/Ruten/Evaluation-Metrics_Vishal-main/midline_batch_runs/visualizations_from_dlc/run_20260405_115049/ses_20250521_face__20250521_144211_271947/midline_analysis/chewing_sidedness_summary.json"
+    },
+    {
+      "session_id": "ses_20250521_face__20250521_144450_194645",
+      "status": "success",
+      "message": "phase3 step2 complete",
+      "output_csv": "/Users/howardwang/Desktop/Ruten/Evaluation-Metrics_Vishal-main/midline_batch_runs/visualizations_from_dlc/run_20260405_115049/ses_20250521_face__20250521_144450_194645/midline_analysis/chewing_sidedness_analysis.csv",
+      "summary_json": "/Users/howardwang/Desktop/Ruten/Evaluation-Metrics_Vishal-main/midline_batch_runs/visualizations_from_dlc/run_20260405_115049/ses_20250521_face__20250521_144450_194645/midline_analysis/chewing_sidedness_summary.json"
+    },
+    {
+      "session_id": "ses_20250521_face__20250521_144737_172194",
+      "status": "success",
+      "message": "phase3 step2 complete",
+      "output_csv": "/Users/howardwang/Desktop/Ruten/Evaluation-Metrics_Vishal-main/midline_batch_runs/visualizations_from_dlc/run_20260405_115049/ses_20250521_face__20250521_144737_172194/midline_analysis/chewing_sidedness_analysis.csv",
+      "summary_json": "/Users/howardwang/Desktop/Ruten/Evaluation-Metrics_Vishal-main/midline_batch_runs/visualizations_from_dlc/run_20260405_115049/ses_20250521_face__20250521_144737_172194/midline_analysis/chewing_sidedness_summary.json"
+    },
+    {
+      "session_id": "ses_20250521_face__20250521_145017_673668",
+      "status": "success",
+      "message": "phase3 step2 complete",
+      "output_csv": "/Users/howardwang/Desktop/Ruten/Evaluation-Metrics_Vishal-main/midline_batch_runs/visualizations_from_dlc/run_20260405_115049/ses_20250521_face__20250521_145017_673668/midline_analysis/chewing_sidedness_analysis.csv",
+      "summary_json": "/Users/howardwang/Desktop/Ruten/Evaluation-Metrics_Vishal-main/midline_batch_runs/visualizations_from_dlc/run_20260405_115049/ses_20250521_face__20250521_145017_673668/midline_analysis/chewing_sidedness_summary.json"
+    },
+    {
+      "session_id": "ses_20250521_face__20250521_145300_649896",
+      "status": "success",
+      "message": "phase3 step2 complete",
+      "output_csv": "/Users/howardwang/Desktop/Ruten/Evaluation-Metrics_Vishal-main/midline_batch_runs/visualizations_from_dlc/run_20260405_115049/ses_20250521_face__20250521_145300_649896/midline_analysis/chewing_sidedness_analysis.csv",
+      "summary_json": "/Users/howardwang/Desktop/Ruten/Evaluation-Metrics_Vishal-main/midline_batch_runs/visualizations_from_dlc/run_20260405_115049/ses_20250521_face__20250521_145300_649896/midline_analysis/chewing_sidedness_summary.json"
+    },
+    {
+      "session_id": "ses_20250521_face__20250521_145544_158086",
+      "status": "success",
+      "message": "phase3 step2 complete",
+      "output_csv": "/Users/howardwang/Desktop/Ruten/Evaluation-Metrics_Vishal-main/midline_batch_runs/visualizations_from_dlc/run_20260405_115049/ses_20250521_face__20250521_145544_158086/midline_analysis/chewing_sidedness_analysis.csv",
+      "summary_json": "/Users/howardwang/Desktop/Ruten/Evaluation-Metrics_Vishal-main/midline_batch_runs/visualizations_from_dlc/run_20260405_115049/ses_20250521_face__20250521_145544_158086/midline_analysis/chewing_sidedness_summary.json"
+    },
+    {
+      "session_id": "ses_20250521_face__20250521_145823_227486",
+      "status": "success",
+      "message": "phase3 step2 complete",
+      "output_csv": "/Users/howardwang/Desktop/Ruten/Evaluation-Metrics_Vishal-main/midline_batch_runs/visualizations_from_dlc/run_20260405_115049/ses_20250521_face__20250521_145823_227486/midline_analysis/chewing_sidedness_analysis.csv",
+      "summary_json": "/Users/howardwang/Desktop/Ruten/Evaluation-Metrics_Vishal-main/midline_batch_runs/visualizations_from_dlc/run_20260405_115049/ses_20250521_face__20250521_145823_227486/midline_analysis/chewing_sidedness_summary.json"
+    },
+    {
+      "session_id": "ses_20250521_face__20250521_150113_159299",
+      "status": "success",
+      "message": "phase3 step2 complete",
+      "output_csv": "/Users/howardwang/Desktop/Ruten/Evaluation-Metrics_Vishal-main/midline_batch_runs/visualizations_from_dlc/run_20260405_115049/ses_20250521_face__20250521_150113_159299/midline_analysis/chewing_sidedness_analysis.csv",
+      "summary_json": "/Users/howardwang/Desktop/Ruten/Evaluation-Metrics_Vishal-main/midline_batch_runs/visualizations_from_dlc/run_20260405_115049/ses_20250521_face__20250521_150113_159299/midline_analysis/chewing_sidedness_summary.json"
+    },
+    {
+      "session_id": "ses_20250521_face__20250521_150513_917910",
+      "status": "success",
+      "message": "phase3 step2 complete",
+      "output_csv": "/Users/howardwang/Desktop/Ruten/Evaluation-Metrics_Vishal-main/midline_batch_runs/visualizations_from_dlc/run_20260405_115049/ses_20250521_face__20250521_150513_917910/midline_analysis/chewing_sidedness_analysis.csv",
+      "summary_json": "/Users/howardwang/Desktop/Ruten/Evaluation-Metrics_Vishal-main/midline_batch_runs/visualizations_from_dlc/run_20260405_115049/ses_20250521_face__20250521_150513_917910/midline_analysis/chewing_sidedness_summary.json"
+    },
+    {
+      "session_id": "ses_20250521_face__20250521_150710_465713",
+      "status": "success",
+      "message": "phase3 step2 complete",
+      "output_csv": "/Users/howardwang/Desktop/Ruten/Evaluation-Metrics_Vishal-main/midline_batch_runs/visualizations_from_dlc/run_20260405_115049/ses_20250521_face__20250521_150710_465713/midline_analysis/chewing_sidedness_analysis.csv",
+      "summary_json": "/Users/howardwang/Desktop/Ruten/Evaluation-Metrics_Vishal-main/midline_batch_runs/visualizations_from_dlc/run_20260405_115049/ses_20250521_face__20250521_150710_465713/midline_analysis/chewing_sidedness_summary.json"
+    },
+    {
+      "session_id": "ses_20250521_face__20250521_150904_364866",
+      "status": "success",
+      "message": "phase3 step2 complete",
+      "output_csv": "/Users/howardwang/Desktop/Ruten/Evaluation-Metrics_Vishal-main/midline_batch_runs/visualizations_from_dlc/run_20260405_115049/ses_20250521_face__20250521_150904_364866/midline_analysis/chewing_sidedness_analysis.csv",
+      "summary_json": "/Users/howardwang/Desktop/Ruten/Evaluation-Metrics_Vishal-main/midline_batch_runs/visualizations_from_dlc/run_20260405_115049/ses_20250521_face__20250521_150904_364866/midline_analysis/chewing_sidedness_summary.json"
+    },
+    {
+      "session_id": "ses_20250521_face__20250521_151254_985256",
+      "status": "success",
+      "message": "phase3 step2 complete",
+      "output_csv": "/Users/howardwang/Desktop/Ruten/Evaluation-Metrics_Vishal-main/midline_batch_runs/visualizations_from_dlc/run_20260405_115049/ses_20250521_face__20250521_151254_985256/midline_analysis/chewing_sidedness_analysis.csv",
+      "summary_json": "/Users/howardwang/Desktop/Ruten/Evaluation-Metrics_Vishal-main/midline_batch_runs/visualizations_from_dlc/run_20260405_115049/ses_20250521_face__20250521_151254_985256/midline_analysis/chewing_sidedness_summary.json"
+    },
+    {
+      "session_id": "ses_20250521_face__baseline_20250521_151254_985256",
+      "status": "success",
+      "message": "phase3 step2 complete",
+      "output_csv": "/Users/howardwang/Desktop/Ruten/Evaluation-Metrics_Vishal-main/midline_batch_runs/visualizations_from_dlc/run_20260405_115049/ses_20250521_face__baseline_20250521_151254_985256/midline_analysis/chewing_sidedness_analysis.csv",
+      "summary_json": "/Users/howardwang/Desktop/Ruten/Evaluation-Metrics_Vishal-main/midline_batch_runs/visualizations_from_dlc/run_20260405_115049/ses_20250521_face__baseline_20250521_151254_985256/midline_analysis/chewing_sidedness_summary.json"
+    },
+    {
+      "session_id": "ses_20250521_face__calib_20250521_130323_616807",
+      "status": "success",
+      "message": "phase3 step2 complete",
+      "output_csv": "/Users/howardwang/Desktop/Ruten/Evaluation-Metrics_Vishal-main/midline_batch_runs/visualizations_from_dlc/run_20260405_115049/ses_20250521_face__calib_20250521_130323_616807/midline_analysis/chewing_sidedness_analysis.csv",
+      "summary_json": "/Users/howardwang/Desktop/Ruten/Evaluation-Metrics_Vishal-main/midline_batch_runs/visualizations_from_dlc/run_20260405_115049/ses_20250521_face__calib_20250521_130323_616807/midline_analysis/chewing_sidedness_summary.json"
+    },
+    {
+      "session_id": "ses_20250527_face__20250527_113518_871818",
+      "status": "success",
+      "message": "phase3 step2 complete",
+      "output_csv": "/Users/howardwang/Desktop/Ruten/Evaluation-Metrics_Vishal-main/midline_batch_runs/visualizations_from_dlc/run_20260405_115049/ses_20250527_face__20250527_113518_871818/midline_analysis/chewing_sidedness_analysis.csv",
+      "summary_json": "/Users/howardwang/Desktop/Ruten/Evaluation-Metrics_Vishal-main/midline_batch_runs/visualizations_from_dlc/run_20260405_115049/ses_20250527_face__20250527_113518_871818/midline_analysis/chewing_sidedness_summary.json"
+    },
+    {
+      "session_id": "ses_20250527_face__20250527_150152_652985",
+      "status": "success",
+      "message": "phase3 step2 complete",
+      "output_csv": "/Users/howardwang/Desktop/Ruten/Evaluation-Metrics_Vishal-main/midline_batch_runs/visualizations_from_dlc/run_20260405_115049/ses_20250527_face__20250527_150152_652985/midline_analysis/chewing_sidedness_analysis.csv",
+      "summary_json": "/Users/howardwang/Desktop/Ruten/Evaluation-Metrics_Vishal-main/midline_batch_runs/visualizations_from_dlc/run_20260405_115049/ses_20250527_face__20250527_150152_652985/midline_analysis/chewing_sidedness_summary.json"
+    },
+    {
+      "session_id": "ses_20250527_face__20250527_150619_113165",
+      "status": "success",
+      "message": "phase3 step2 complete",
+      "output_csv": "/Users/howardwang/Desktop/Ruten/Evaluation-Metrics_Vishal-main/midline_batch_runs/visualizations_from_dlc/run_20260405_115049/ses_20250527_face__20250527_150619_113165/midline_analysis/chewing_sidedness_analysis.csv",
+      "summary_json": "/Users/howardwang/Desktop/Ruten/Evaluation-Metrics_Vishal-main/midline_batch_runs/visualizations_from_dlc/run_20260405_115049/ses_20250527_face__20250527_150619_113165/midline_analysis/chewing_sidedness_summary.json"
+    },
+    {
+      "session_id": "ses_20250529_face__20250529_143000_878135",
+      "status": "success",
+      "message": "phase3 step2 complete",
+      "output_csv": "/Users/howardwang/Desktop/Ruten/Evaluation-Metrics_Vishal-main/midline_batch_runs/visualizations_from_dlc/run_20260405_115049/ses_20250529_face__20250529_143000_878135/midline_analysis/chewing_sidedness_analysis.csv",
+      "summary_json": "/Users/howardwang/Desktop/Ruten/Evaluation-Metrics_Vishal-main/midline_batch_runs/visualizations_from_dlc/run_20260405_115049/ses_20250529_face__20250529_143000_878135/midline_analysis/chewing_sidedness_summary.json"
+    },
+    {
+      "session_id": "ses_20250529_face__20250529_143145_678151",
+      "status": "success",
+      "message": "phase3 step2 complete",
+      "output_csv": "/Users/howardwang/Desktop/Ruten/Evaluation-Metrics_Vishal-main/midline_batch_runs/visualizations_from_dlc/run_20260405_115049/ses_20250529_face__20250529_143145_678151/midline_analysis/chewing_sidedness_analysis.csv",
+      "summary_json": "/Users/howardwang/Desktop/Ruten/Evaluation-Metrics_Vishal-main/midline_batch_runs/visualizations_from_dlc/run_20260405_115049/ses_20250529_face__20250529_143145_678151/midline_analysis/chewing_sidedness_summary.json"
+    },
+    {
+      "session_id": "ses_20250529_face__20250529_143352_425781",
+      "status": "success",
+      "message": "phase3 step2 complete",
+      "output_csv": "/Users/howardwang/Desktop/Ruten/Evaluation-Metrics_Vishal-main/midline_batch_runs/visualizations_from_dlc/run_20260405_115049/ses_20250529_face__20250529_143352_425781/midline_analysis/chewing_sidedness_analysis.csv",
+      "summary_json": "/Users/howardwang/Desktop/Ruten/Evaluation-Metrics_Vishal-main/midline_batch_runs/visualizations_from_dlc/run_20260405_115049/ses_20250529_face__20250529_143352_425781/midline_analysis/chewing_sidedness_summary.json"
+    },
+    {
+      "session_id": "ses_20250529_face__20250529_143540_887382",
+      "status": "success",
+      "message": "phase3 step2 complete",
+      "output_csv": "/Users/howardwang/Desktop/Ruten/Evaluation-Metrics_Vishal-main/midline_batch_runs/visualizations_from_dlc/run_20260405_115049/ses_20250529_face__20250529_143540_887382/midline_analysis/chewing_sidedness_analysis.csv",
+      "summary_json": "/Users/howardwang/Desktop/Ruten/Evaluation-Metrics_Vishal-main/midline_batch_runs/visualizations_from_dlc/run_20260405_115049/ses_20250529_face__20250529_143540_887382/midline_analysis/chewing_sidedness_summary.json"
+    },
+    {
+      "session_id": "ses_20250529_face__20250529_143733_385960",
+      "status": "success",
+      "message": "phase3 step2 complete",
+      "output_csv": "/Users/howardwang/Desktop/Ruten/Evaluation-Metrics_Vishal-main/midline_batch_runs/visualizations_from_dlc/run_20260405_115049/ses_20250529_face__20250529_143733_385960/midline_analysis/chewing_sidedness_analysis.csv",
+      "summary_json": "/Users/howardwang/Desktop/Ruten/Evaluation-Metrics_Vishal-main/midline_batch_runs/visualizations_from_dlc/run_20260405_115049/ses_20250529_face__20250529_143733_385960/midline_analysis/chewing_sidedness_summary.json"
+    },
+    {
+      "session_id": "ses_20250529_face__20250529_143918_061502",
+      "status": "success",
+      "message": "phase3 step2 complete",
+      "output_csv": "/Users/howardwang/Desktop/Ruten/Evaluation-Metrics_Vishal-main/midline_batch_runs/visualizations_from_dlc/run_20260405_115049/ses_20250529_face__20250529_143918_061502/midline_analysis/chewing_sidedness_analysis.csv",
+      "summary_json": "/Users/howardwang/Desktop/Ruten/Evaluation-Metrics_Vishal-main/midline_batch_runs/visualizations_from_dlc/run_20260405_115049/ses_20250529_face__20250529_143918_061502/midline_analysis/chewing_sidedness_summary.json"
+    },
+    {
+      "session_id": "ses_20250529_face__20250529_144844_377096",
+      "status": "success",
+      "message": "phase3 step2 complete",
+      "output_csv": "/Users/howardwang/Desktop/Ruten/Evaluation-Metrics_Vishal-main/midline_batch_runs/visualizations_from_dlc/run_20260405_115049/ses_20250529_face__20250529_144844_377096/midline_analysis/chewing_sidedness_analysis.csv",
+      "summary_json": "/Users/howardwang/Desktop/Ruten/Evaluation-Metrics_Vishal-main/midline_batch_runs/visualizations_from_dlc/run_20260405_115049/ses_20250529_face__20250529_144844_377096/midline_analysis/chewing_sidedness_summary.json"
+    },
+    {
+      "session_id": "ses_20250606_face__20250606_143622_278722",
+      "status": "success",
+      "message": "phase3 step2 complete",
+      "output_csv": "/Users/howardwang/Desktop/Ruten/Evaluation-Metrics_Vishal-main/midline_batch_runs/visualizations_from_dlc/run_20260405_115049/ses_20250606_face__20250606_143622_278722/midline_analysis/chewing_sidedness_analysis.csv",
+      "summary_json": "/Users/howardwang/Desktop/Ruten/Evaluation-Metrics_Vishal-main/midline_batch_runs/visualizations_from_dlc/run_20260405_115049/ses_20250606_face__20250606_143622_278722/midline_analysis/chewing_sidedness_summary.json"
+    },
+    {
+      "session_id": "ses_20250606_face__20250606_143812_528355",
+      "status": "success",
+      "message": "phase3 step2 complete",
+      "output_csv": "/Users/howardwang/Desktop/Ruten/Evaluation-Metrics_Vishal-main/midline_batch_runs/visualizations_from_dlc/run_20260405_115049/ses_20250606_face__20250606_143812_528355/midline_analysis/chewing_sidedness_analysis.csv",
+      "summary_json": "/Users/howardwang/Desktop/Ruten/Evaluation-Metrics_Vishal-main/midline_batch_runs/visualizations_from_dlc/run_20260405_115049/ses_20250606_face__20250606_143812_528355/midline_analysis/chewing_sidedness_summary.json"
+    },
+    {
+      "session_id": "ses_20250606_face__20250606_144019_434496",
+      "status": "success",
+      "message": "phase3 step2 complete",
+      "output_csv": "/Users/howardwang/Desktop/Ruten/Evaluation-Metrics_Vishal-main/midline_batch_runs/visualizations_from_dlc/run_20260405_115049/ses_20250606_face__20250606_144019_434496/midline_analysis/chewing_sidedness_analysis.csv",
+      "summary_json": "/Users/howardwang/Desktop/Ruten/Evaluation-Metrics_Vishal-main/midline_batch_runs/visualizations_from_dlc/run_20260405_115049/ses_20250606_face__20250606_144019_434496/midline_analysis/chewing_sidedness_summary.json"
+    },
+    {
+      "session_id": "ses_20250606_face__20250606_144154_467141",
+      "status": "success",
+      "message": "phase3 step2 complete",
+      "output_csv": "/Users/howardwang/Desktop/Ruten/Evaluation-Metrics_Vishal-main/midline_batch_runs/visualizations_from_dlc/run_20260405_115049/ses_20250606_face__20250606_144154_467141/midline_analysis/chewing_sidedness_analysis.csv",
+      "summary_json": "/Users/howardwang/Desktop/Ruten/Evaluation-Metrics_Vishal-main/midline_batch_runs/visualizations_from_dlc/run_20260405_115049/ses_20250606_face__20250606_144154_467141/midline_analysis/chewing_sidedness_summary.json"
+    },
+    {
+      "session_id": "ses_20250606_face__20250606_144351_309976",
+      "status": "success",
+      "message": "phase3 step2 complete",
+      "output_csv": "/Users/howardwang/Desktop/Ruten/Evaluation-Metrics_Vishal-main/midline_batch_runs/visualizations_from_dlc/run_20260405_115049/ses_20250606_face__20250606_144351_309976/midline_analysis/chewing_sidedness_analysis.csv",
+      "summary_json": "/Users/howardwang/Desktop/Ruten/Evaluation-Metrics_Vishal-main/midline_batch_runs/visualizations_from_dlc/run_20260405_115049/ses_20250606_face__20250606_144351_309976/midline_analysis/chewing_sidedness_summary.json"
+    },
+    {
+      "session_id": "ses_20250606_face__20250606_144542_472418",
+      "status": "success",
+      "message": "phase3 step2 complete",
+      "output_csv": "/Users/howardwang/Desktop/Ruten/Evaluation-Metrics_Vishal-main/midline_batch_runs/visualizations_from_dlc/run_20260405_115049/ses_20250606_face__20250606_144542_472418/midline_analysis/chewing_sidedness_analysis.csv",
+      "summary_json": "/Users/howardwang/Desktop/Ruten/Evaluation-Metrics_Vishal-main/midline_batch_runs/visualizations_from_dlc/run_20260405_115049/ses_20250606_face__20250606_144542_472418/midline_analysis/chewing_sidedness_summary.json"
+    },
+    {
+      "session_id": "ses_20250606_face__20250606_144841_396803",
+      "status": "success",
+      "message": "phase3 step2 complete",
+      "output_csv": "/Users/howardwang/Desktop/Ruten/Evaluation-Metrics_Vishal-main/midline_batch_runs/visualizations_from_dlc/run_20260405_115049/ses_20250606_face__20250606_144841_396803/midline_analysis/chewing_sidedness_analysis.csv",
+      "summary_json": "/Users/howardwang/Desktop/Ruten/Evaluation-Metrics_Vishal-main/midline_batch_runs/visualizations_from_dlc/run_20260405_115049/ses_20250606_face__20250606_144841_396803/midline_analysis/chewing_sidedness_summary.json"
+    },
+    {
+      "session_id": "ses_20250606_face__20250606_145026_093534",
+      "status": "success",
+      "message": "phase3 step2 complete",
+      "output_csv": "/Users/howardwang/Desktop/Ruten/Evaluation-Metrics_Vishal-main/midline_batch_runs/visualizations_from_dlc/run_20260405_115049/ses_20250606_face__20250606_145026_093534/midline_analysis/chewing_sidedness_analysis.csv",
+      "summary_json": "/Users/howardwang/Desktop/Ruten/Evaluation-Metrics_Vishal-main/midline_batch_runs/visualizations_from_dlc/run_20260405_115049/ses_20250606_face__20250606_145026_093534/midline_analysis/chewing_sidedness_summary.json"
+    },
+    {
+      "session_id": "ses_20250606_face__20250606_145223_931625",
+      "status": "success",
+      "message": "phase3 step2 complete",
+      "output_csv": "/Users/howardwang/Desktop/Ruten/Evaluation-Metrics_Vishal-main/midline_batch_runs/visualizations_from_dlc/run_20260405_115049/ses_20250606_face__20250606_145223_931625/midline_analysis/chewing_sidedness_analysis.csv",
+      "summary_json": "/Users/howardwang/Desktop/Ruten/Evaluation-Metrics_Vishal-main/midline_batch_runs/visualizations_from_dlc/run_20260405_115049/ses_20250606_face__20250606_145223_931625/midline_analysis/chewing_sidedness_summary.json"
+    },
+    {
+      "session_id": "ses_20250606_face__20250606_145423_740540",
+      "status": "success",
+      "message": "phase3 step2 complete",
+      "output_csv": "/Users/howardwang/Desktop/Ruten/Evaluation-Metrics_Vishal-main/midline_batch_runs/visualizations_from_dlc/run_20260405_115049/ses_20250606_face__20250606_145423_740540/midline_analysis/chewing_sidedness_analysis.csv",
+      "summary_json": "/Users/howardwang/Desktop/Ruten/Evaluation-Metrics_Vishal-main/midline_batch_runs/visualizations_from_dlc/run_20260405_115049/ses_20250606_face__20250606_145423_740540/midline_analysis/chewing_sidedness_summary.json"
+    },
+    {
+      "session_id": "ses_20250606_face__20250606_145634_353320",
+      "status": "success",
+      "message": "phase3 step2 complete",
+      "output_csv": "/Users/howardwang/Desktop/Ruten/Evaluation-Metrics_Vishal-main/midline_batch_runs/visualizations_from_dlc/run_20260405_115049/ses_20250606_face__20250606_145634_353320/midline_analysis/chewing_sidedness_analysis.csv",
+      "summary_json": "/Users/howardwang/Desktop/Ruten/Evaluation-Metrics_Vishal-main/midline_batch_runs/visualizations_from_dlc/run_20260405_115049/ses_20250606_face__20250606_145634_353320/midline_analysis/chewing_sidedness_summary.json"
+    },
+    {
+      "session_id": "ses_20250606_face__20250606_145856_882939",
+      "status": "success",
+      "message": "phase3 step2 complete",
+      "output_csv": "/Users/howardwang/Desktop/Ruten/Evaluation-Metrics_Vishal-main/midline_batch_runs/visualizations_from_dlc/run_20260405_115049/ses_20250606_face__20250606_145856_882939/midline_analysis/chewing_sidedness_analysis.csv",
+      "summary_json": "/Users/howardwang/Desktop/Ruten/Evaluation-Metrics_Vishal-main/midline_batch_runs/visualizations_from_dlc/run_20260405_115049/ses_20250606_face__20250606_145856_882939/midline_analysis/chewing_sidedness_summary.json"
+    },
+    {
+      "session_id": "ses_20250606_face__20250606_150134_732688",
+      "status": "success",
+      "message": "phase3 step2 complete",
+      "output_csv": "/Users/howardwang/Desktop/Ruten/Evaluation-Metrics_Vishal-main/midline_batch_runs/visualizations_from_dlc/run_20260405_115049/ses_20250606_face__20250606_150134_732688/midline_analysis/chewing_sidedness_analysis.csv",
+      "summary_json": "/Users/howardwang/Desktop/Ruten/Evaluation-Metrics_Vishal-main/midline_batch_runs/visualizations_from_dlc/run_20260405_115049/ses_20250606_face__20250606_150134_732688/midline_analysis/chewing_sidedness_summary.json"
+    },
+    {
+      "session_id": "ses_20250606_face__20250606_150338_449591",
+      "status": "success",
+      "message": "phase3 step2 complete",
+      "output_csv": "/Users/howardwang/Desktop/Ruten/Evaluation-Metrics_Vishal-main/midline_batch_runs/visualizations_from_dlc/run_20260405_115049/ses_20250606_face__20250606_150338_449591/midline_analysis/chewing_sidedness_analysis.csv",
+      "summary_json": "/Users/howardwang/Desktop/Ruten/Evaluation-Metrics_Vishal-main/midline_batch_runs/visualizations_from_dlc/run_20260405_115049/ses_20250606_face__20250606_150338_449591/midline_analysis/chewing_sidedness_summary.json"
+    }
+  ]
+}
